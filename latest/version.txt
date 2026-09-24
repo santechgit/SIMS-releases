@@ -1,6 +1,6 @@
-version=4.3.2.0
+version=4.3.3.0
 minimum=4.3.0.0
 released=2026-09-24
-url=SIMS-4.3.2.0.zip
-sha256=EF2DD35DA9DD52AA0200237E5F03A06BC13AA0112D9DD975E1D88D685759CD35
-notes=Fix: update installer could fail to restart SIMS|Dark and light theme for every screen|Signed licences bound to one PC|Cheque pass/cancel now updates payments
+url=SIMS-4.3.3.0.zip
+sha256=05D10C7BE6DD8F540EDE9DB7B22764C73C9972E364D840C1BF348FA000FBB35D
+notes=Developer licence support|Update installer fix|Dark and light theme for every screen|Signed licences bound to one PC
