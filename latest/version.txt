@@ -1,0 +1,6 @@
+version=4.3.1.0
+minimum=4.3.0.0
+released=2026-09-24
+url=SIMS-4.3.1.0.zip
+sha256=536AF2DC95FD93841EA0A2EDBA1C5BE1BB3DC25823E0DC79DB450FA6389FB89B
+notes=Dark and light theme for every screen|Signed licences bound to one PC|Cheque pass/cancel now updates payments|Automatic update check|Database self-repair for old backups
