@@ -1,6 +1,6 @@
-version=4.3.3.0
+version=4.4.0.0
 minimum=4.3.0.0
-released=2026-09-24
-url=SIMS-4.3.3.0.zip
-sha256=05D10C7BE6DD8F540EDE9DB7B22764C73C9972E364D840C1BF348FA000FBB35D
-notes=Developer licence support|Update installer fix|Dark and light theme for every screen|Signed licences bound to one PC
+released=2026-09-25
+url=SIMS-4.4.0.0.zip
+sha256=81949909973F6137698102D962B145F77552F06CCEDC2608E7C5CB103169CAFB
+notes=Passwords now stored securely (hashed)|Faster product search and safer saving of names with apostrophes|Invoice and vendor saving fixed|Newest orders first in the Sales Order list; saved customer shown after saving|Cheque pass/cancel updates payments|Dark and light theme on every screen|Removed unusable tabs and dead code|Database upgrades itself with an automatic backup
