@@ -1,6 +1,6 @@
-version=4.4.0.0
-minimum=4.3.0.0
-released=2026-09-25
-url=SIMS-4.4.0.0.zip
-sha256=81949909973F6137698102D962B145F77552F06CCEDC2608E7C5CB103169CAFB
-notes=Passwords now stored securely (hashed)|Faster product search and safer saving of names with apostrophes|Invoice and vendor saving fixed|Newest orders first in the Sales Order list; saved customer shown after saving|Cheque pass/cancel updates payments|Dark and light theme on every screen|Removed unusable tabs and dead code|Database upgrades itself with an automatic backup
+version=4.5.0.0
+minimum=4.4.0.0
+released=2026-09-27
+url=SIMS-4.5.0.0.zip
+sha256=C59A846BDF5FDE476374D7A7AB1EDB30801E6C400D0AE7FA30C5B40E048369CA
+notes=Receivable Ledger now defaults to the current month|Invoice now prints a UPI payment QR at the bottom|Sales Order: phone number is now optional|Search Item popup shows the total number of matching items|Sales Order and Invoice now allow selling with zero or low stock - stock goes negative and self-corrects once restocked
