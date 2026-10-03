@@ -1,6 +1,6 @@
-version=4.5.0.0
+version=4.5.1.0
 minimum=4.4.0.0
-released=2026-09-27
-url=SIMS-4.5.0.0.zip
-sha256=C59A846BDF5FDE476374D7A7AB1EDB30801E6C400D0AE7FA30C5B40E048369CA
-notes=Receivable Ledger now defaults to the current month|Invoice now prints a UPI payment QR at the bottom|Sales Order: phone number is now optional|Search Item popup shows the total number of matching items|Sales Order and Invoice now allow selling with zero or low stock - stock goes negative and self-corrects once restocked
+released=2026-10-03
+url=SIMS-4.5.1.0.zip
+sha256=77E9438D0024FE6603BD3C26CC560DAACB4983C04C3FFCB3AB6D42E2B27EC7AC
+notes=Fixes the error when clicking an item in Inventory on an imported database|Imported 4.3 databases are upgraded fully (missing item columns, empty GST values)|Printing an invoice no longer fails on old orders|Login and error logging work for normal users under Program Files|Adds a timing log (SIMSPerf.log) to help find slow screens
