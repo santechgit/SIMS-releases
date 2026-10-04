@@ -1,6 +1,6 @@
-version=4.5.1.0
+version=4.5.2.0
 minimum=4.4.0.0
-released=2026-10-03
-url=SIMS-4.5.1.0.zip
-sha256=77E9438D0024FE6603BD3C26CC560DAACB4983C04C3FFCB3AB6D42E2B27EC7AC
-notes=Fixes the error when clicking an item in Inventory on an imported database|Imported 4.3 databases are upgraded fully (missing item columns, empty GST values)|Printing an invoice no longer fails on old orders|Login and error logging work for normal users under Program Files|Adds a timing log (SIMSPerf.log) to help find slow screens
+released=2026-10-04
+url=SIMS-4.5.2.0.zip
+sha256=039452426978650C55F5D2CE137EA25DE0BCAB8ABA1CCFDC3EEA7B3A432F46F6
+notes=Fixes the repeated 'licence file SIMSL2.dat not found' message for online-activated PCs|Sales order list now loads the current month instead of the whole year, so Refresh and Save are much faster|Searching by order, customer, phone, product or status still covers the whole financial year
