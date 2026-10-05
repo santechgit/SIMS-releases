@@ -1,6 +1,6 @@
-version=4.5.7.0
+version=4.5.8.0
 minimum=4.4.0.0
 released=2026-10-05
-url=SIMS-4.5.7.0.zip
-sha256=21A256FD2E493B07B5F2DCB5012E46570CFB43170BBD4F2F0D8C71675FCBDC2C
-notes=Sales Order item lists: selected-row text is now black (was white and unreadable) and the Item Name column is wider|Light-selection grids across SIMS get dark text on the selected row
+url=SIMS-4.5.8.0.zip
+sha256=B819FDD8DE8BDB0770A89250D30ACB8D5FD606292532A01839284A5695461EA3
+notes=Sales Order > Invoice: the Reopen Order button can be clicked again (it was permanently disabled)
