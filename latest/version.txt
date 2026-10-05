@@ -1,6 +1,6 @@
-version=4.5.10.0
+version=4.5.11.0
 minimum=4.4.0.0
 released=2026-10-05
-url=SIMS-4.5.10.0.zip
-sha256=082406CB7F2304442BEE0F2A47DC78ECD76D6E4077E8EAD6895C7D928E07AC2B
-notes=Invoice print: column order is now Quantity, GST, MRP, Rate, Discount, Amount
+url=SIMS-4.5.11.0.zip
+sha256=A4569CBF9B5B106C35BF014FAD28639B329198F06071FB561A19E44D5697B7E3
+notes=Sales Order: new From / To date search on the left order list to find earlier orders (default stays the current month)|Receivable Ledger: received amounts now follow the same dates as the sales list, the sales list and totals always load, and zero totals show 0.00
