@@ -1,6 +1,6 @@
-version=4.5.9.0
+version=4.5.10.0
 minimum=4.4.0.0
 released=2026-10-05
-url=SIMS-4.5.9.0.zip
-sha256=02B5A7E52C444D36DD299C2698B9B86BB6819A73F3466E1EE2428466285425B3
-notes=IMPORTANT: Reopen Order on an invoice now saves correctly (changing quantities, removing items, stock and GST all update) - 4.5.8.0 could lose the invoice's items when saving a reopened invoice|Removing an item while an invoice is reopened returns its stock correctly
+url=SIMS-4.5.10.0.zip
+sha256=082406CB7F2304442BEE0F2A47DC78ECD76D6E4077E8EAD6895C7D928E07AC2B
+notes=Invoice print: column order is now Quantity, GST, MRP, Rate, Discount, Amount
