@@ -1,6 +1,6 @@
-version=4.5.4.0
+version=4.5.5.0
 minimum=4.4.0.0
 released=2026-10-05
-url=SIMS-4.5.4.0.zip
-sha256=DBCF1F188FEE755C7CD72ED1ACD3F11EF3E6355C66431F4D0CA279DDF5A9ECC0
-notes=Software update no longer says updates are not included in the licence for online-activated PCs (uses the API's updates-until date)|Update check no longer times out on slow connections|Adds SIMSPerf.log to trace slow screens
+url=SIMS-4.5.5.0.zip
+sha256=2636C25045FAD8ADC816067961C195519092BFA85C031C35B9B05C1B01DF8958
+notes=SIMSPerf.log is now written in the SIMS install folder, beside SIMSError.log|Software update works for online-activated PCs|Update check no longer times out
