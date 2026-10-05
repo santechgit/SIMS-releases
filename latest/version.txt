@@ -1,6 +1,6 @@
-version=4.5.6.0
+version=4.5.7.0
 minimum=4.4.0.0
 released=2026-10-05
-url=SIMS-4.5.6.0.zip
-sha256=813EE0A101FCB3A52A0A7B05F107768DCB4CDBAD90B7EC382A4307A6B842903E
-notes=Fixes the 25-second freeze when opening the Sales Order tab or pressing New (next order number is found with a much lighter query)|Turns off the database AUTO_CLOSE option that makes slow PCs re-read the data again and again|Software update and update-check fixes from earlier releases included
+url=SIMS-4.5.7.0.zip
+sha256=21A256FD2E493B07B5F2DCB5012E46570CFB43170BBD4F2F0D8C71675FCBDC2C
+notes=Sales Order item lists: selected-row text is now black (was white and unreadable) and the Item Name column is wider|Light-selection grids across SIMS get dark text on the selected row
