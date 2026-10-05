@@ -1,6 +1,6 @@
-version=4.5.3.0
+version=4.5.4.0
 minimum=4.4.0.0
 released=2026-10-05
-url=SIMS-4.5.3.0.zip
-sha256=66E6D191427FFD63F6D039346950DC786BF2A75159613DC051BB9B2FCAA44C86
-notes=Update check no longer times out on slow connections (longer wait, retries, system proxy)|Adds SIMSPerf.log: records any screen freeze with the database query that was running, to trace slow screens
+url=SIMS-4.5.4.0.zip
+sha256=DBCF1F188FEE755C7CD72ED1ACD3F11EF3E6355C66431F4D0CA279DDF5A9ECC0
+notes=Software update no longer says updates are not included in the licence for online-activated PCs (uses the API's updates-until date)|Update check no longer times out on slow connections|Adds SIMSPerf.log to trace slow screens
