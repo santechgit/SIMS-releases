@@ -1,6 +1,6 @@
-version=4.5.2.0
+version=4.5.3.0
 minimum=4.4.0.0
-released=2026-10-04
-url=SIMS-4.5.2.0.zip
-sha256=039452426978650C55F5D2CE137EA25DE0BCAB8ABA1CCFDC3EEA7B3A432F46F6
-notes=Fixes the repeated 'licence file SIMSL2.dat not found' message for online-activated PCs|Sales order list now loads the current month instead of the whole year, so Refresh and Save are much faster|Searching by order, customer, phone, product or status still covers the whole financial year
+released=2026-10-05
+url=SIMS-4.5.3.0.zip
+sha256=66E6D191427FFD63F6D039346950DC786BF2A75159613DC051BB9B2FCAA44C86
+notes=Update check no longer times out on slow connections (longer wait, retries, system proxy)|Adds SIMSPerf.log: records any screen freeze with the database query that was running, to trace slow screens
