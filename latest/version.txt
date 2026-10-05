@@ -1,6 +1,6 @@
-version=4.5.5.0
+version=4.5.6.0
 minimum=4.4.0.0
 released=2026-10-05
-url=SIMS-4.5.5.0.zip
-sha256=2636C25045FAD8ADC816067961C195519092BFA85C031C35B9B05C1B01DF8958
-notes=SIMSPerf.log is now written in the SIMS install folder, beside SIMSError.log|Software update works for online-activated PCs|Update check no longer times out
+url=SIMS-4.5.6.0.zip
+sha256=813EE0A101FCB3A52A0A7B05F107768DCB4CDBAD90B7EC382A4307A6B842903E
+notes=Fixes the 25-second freeze when opening the Sales Order tab or pressing New (next order number is found with a much lighter query)|Turns off the database AUTO_CLOSE option that makes slow PCs re-read the data again and again|Software update and update-check fixes from earlier releases included
