@@ -1,6 +1,6 @@
-version=4.5.11.0
+version=4.5.12.0
 minimum=4.4.0.0
-released=2026-10-05
-url=SIMS-4.5.11.0.zip
-sha256=A4569CBF9B5B106C35BF014FAD28639B329198F06071FB561A19E44D5697B7E3
-notes=Sales Order: new From / To date search on the left order list to find earlier orders (default stays the current month)|Receivable Ledger: received amounts now follow the same dates as the sales list, the sales list and totals always load, and zero totals show 0.00
+released=2026-10-08
+url=SIMS-4.5.12.0.zip
+sha256=56E983904D4C85440BA74D6F7E3B15DA2AE1E0AE5222DC659060CCD798B9D9B4
+notes=New customer: Customer No is filled in automatically|Settings button works for any admin user|Fixed errors after saving an invoice and in the Sales Order list|Default settings created automatically on a new database|Sales Order search panel layout
