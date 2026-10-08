@@ -1,6 +1,6 @@
-version=4.5.12.0
+version=4.5.13.0
 minimum=4.4.0.0
 released=2026-10-08
-url=SIMS-4.5.12.0.zip
-sha256=56E983904D4C85440BA74D6F7E3B15DA2AE1E0AE5222DC659060CCD798B9D9B4
-notes=New customer: Customer No is filled in automatically|Settings button works for any admin user|Fixed errors after saving an invoice and in the Sales Order list|Default settings created automatically on a new database|Sales Order search panel layout
+url=SIMS-4.5.13.0.zip
+sha256=0C70B23AD366662DE0DFE6D4E2CF076F59639C2A1A266B031A7E7AF0C43DF9CF
+notes=Reopen Order: items added during reopen are now saved correctly and totals update|Reopen Save checks every row first so an order can no longer lose its items|Invoice remark is read back after saving and falls back to the order remark
