@@ -1,6 +1,6 @@
-version=4.5.13.0
+version=4.5.14.0
 minimum=4.4.0.0
-released=2026-10-08
-url=SIMS-4.5.13.0.zip
-sha256=0C70B23AD366662DE0DFE6D4E2CF076F59639C2A1A266B031A7E7AF0C43DF9CF
-notes=Reopen Order: items added during reopen are now saved correctly and totals update|Reopen Save checks every row first so an order can no longer lose its items|Invoice remark is read back after saving and falls back to the order remark
+released=2026-10-15
+url=SIMS-4.5.14.0.zip
+sha256=71771BDA438E30624CD2A523E95B30FA34E23DF475A0FC9A1B726BEBD5B8BEC9
+notes=New Create Indent screen (Inventory) - list items to buy, then pick the Indent No on a Purchase Order to bring them in|Purchase Order: item search matches anywhere in the name, totals recalculate when a price is typed, clear messages when Save cannot proceed|Inventory: clicking an item no longer raises an error; HSN/SAC code is only required when a tax is selected|Vendor Save shows the real reason if it fails instead of doing nothing|Database is updated automatically on the first start after the upgrade (a backup is taken first)
