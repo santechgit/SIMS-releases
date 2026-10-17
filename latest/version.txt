@@ -1,6 +1,6 @@
-version=4.5.16.0
+version=4.5.17.0
 minimum=4.4.0.0
 released=2026-10-17
-url=SIMS-4.5.16.0.zip
-sha256=BA711E6089BBFB0F3B9DF178CAC8F83E96701E663F149F9C0D0D0E8FC5F9A8DC
-notes=Sales Order > Invoice: the Invoice Date field now always shows today's date when an invoice is selected; updating an existing invoice keeps its original date unless a different date is picked|Fixed the order date / invoice date check when updating a reopened invoice (dates were compared as text)|Includes the SIMS Mobile connector (Mobile App tab in Settings) - inactive unless the PC is enrolled|No database change in this release
+url=SIMS-4.5.17.0.zip
+sha256=6F5EB43601688A3E0E78E3D8C18F1107A5311A3EC4CC9587FCAD3F4B560066A1
+notes=Settings window: the side tabs are slightly smaller so every tab, including Mobile App, fits in one column|No database change in this release
