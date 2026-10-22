@@ -1,6 +1,6 @@
-version=4.5.17.0
+version=4.5.18.0
 minimum=4.4.0.0
-released=2026-10-17
-url=SIMS-4.5.17.0.zip
-sha256=6F5EB43601688A3E0E78E3D8C18F1107A5311A3EC4CC9587FCAD3F4B560066A1
-notes=Settings window: the side tabs are slightly smaller so every tab, including Mobile App, fits in one column|No database change in this release
+released=2026-10-22
+url=SIMS-4.5.18.0.zip
+sha256=783EDEE51D5977BCED50DFF731BC9BB40F835F00B97F2D3096232C9814342D3E
+notes=Accounts > Money Receipt: the receipt number now always shows (it was blank after an earlier receipt such as MR1); Bank Transfer / UPI payments now reduce the balance and mark the order Paid; after Save the order stays on screen with the new balance and status; a receipt that cannot be saved now shows the reason|Sales Order: after saving an order the left list shows it immediately - the list now defaults to today's orders and invoices, and the Customer filter is empty again|Accounts > Receivable Ledger: the ledger refreshes when the customer or the From/To dates change, and the Search button is now Refresh; the saved Amount Due on Ledger Summery is always the customer's full outstanding, not just the dates being viewed|No database change in this release
