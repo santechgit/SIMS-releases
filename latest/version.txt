@@ -1,6 +1,6 @@
-version=4.5.19.0
+version=4.5.20.0
 minimum=4.4.0.0
-released=2026-10-23
-url=SIMS-4.5.19.0.zip
-sha256=210057C62CF0E4F036B34B03AE6643FBD0B6FFF937F26AA5518E58EB06568FC9
-notes=Fixed error when clicking View in Settings > Users|Backup now shows a clear message when SQL Server cannot write to the chosen folder|Money receipt redesigned with amount in words
+released=2026-11-01
+url=SIMS-4.5.20.0.zip
+sha256=A1DE6E90B4CE199A07C14034B1DDAAECA4D5548C8596B1ABC45040FC5E17BBB6
+notes=Cleaner flat look in dark mode with a restyled login toggle|Icons added to the top menu and the Settings side menu, larger Settings window|Dark mode fixes for charts, grids, dropdowns and date pickers|Update menu now opens the Upgrade window|Current Stock screen label overlap fixed
