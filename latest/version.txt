@@ -1,6 +1,6 @@
-version=4.5.20.0
+version=4.5.21.0
 minimum=4.4.0.0
-released=2026-11-01
-url=SIMS-4.5.20.0.zip
-sha256=A1DE6E90B4CE199A07C14034B1DDAAECA4D5548C8596B1ABC45040FC5E17BBB6
-notes=Cleaner flat look in dark mode with a restyled login toggle|Icons added to the top menu and the Settings side menu, larger Settings window|Dark mode fixes for charts, grids, dropdowns and date pickers|Update menu now opens the Upgrade window|Current Stock screen label overlap fixed
+released=2026-11-05
+url=SIMS-4.5.21.0.zip
+sha256=36D71D24CE1F135AFCBA0B094F91F2B165AF993A4B51A34762BA5B2031EE5FA9
+notes=Bigger cleaner Settings window|GST state for customers vendors and company - GSTIN stays optional|Tally readiness list in Settings - Tally tab|Database updates automatically on first start
