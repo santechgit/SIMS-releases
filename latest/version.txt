@@ -1,6 +1,6 @@
-version=4.5.21.0
+version=4.5.22.0
 minimum=4.4.0.0
-released=2026-11-05
-url=SIMS-4.5.21.0.zip
-sha256=36D71D24CE1F135AFCBA0B094F91F2B165AF993A4B51A34762BA5B2031EE5FA9
-notes=Bigger cleaner Settings window|GST state for customers vendors and company - GSTIN stays optional|Tally readiness list in Settings - Tally tab|Database updates automatically on first start
+released=2026-11-13
+url=SIMS-4.5.22.0.zip
+sha256=EAE6BC6536EE1A6A1C2BDE545474137EDB1CBE4E63F6CEFE4E5EBD17640DA93B
+notes=Current Stock can now be edited on the Inventory tab|Stock adjustment keeps sales history
