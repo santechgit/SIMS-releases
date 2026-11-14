@@ -1,6 +1,6 @@
-version=4.5.22.0
+version=4.5.23.0
 minimum=4.4.0.0
-released=2026-11-13
-url=SIMS-4.5.22.0.zip
-sha256=EAE6BC6536EE1A6A1C2BDE545474137EDB1CBE4E63F6CEFE4E5EBD17640DA93B
-notes=Current Stock can now be edited on the Inventory tab|Stock adjustment keeps sales history
+released=2026-11-14
+url=SIMS-4.5.23.0.zip
+sha256=FAE275D1AC1F0C741A5616D7312A465576BC01707B9D8303E8EEB109FDD4FBC7
+notes=Send sales invoices to Tally from Settings - Tally|Tally logo on the Tally tab|Settings grids now use the full window width|Database updates automatically on first start
